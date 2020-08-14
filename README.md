@@ -1,4 +1,4 @@
-# Simple-Python-Chatbot
+# Simple-Python-Chatbot: ToDo Adaption to Counseling Conversation Chatbot
 
-Creating a simple Python chatbot using natural language processing and deep learning.
-
+Tasks: 
+* Convert DailyDialogue Dataset to intents.json structure --> Create Parser 
